@@ -1,0 +1,3 @@
+[submodule "we-win-tickets-frontend"]
+	path = we-win-tickets-frontend
+	url = https://github.com/MosesSoftEng/we-win-tickets-frontend.git
